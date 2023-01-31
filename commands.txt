@@ -1,0 +1,11 @@
+pulumi up = spins up
+
+ pulumi stack init = create a new stack 
+
+ pulumi stack = shows your stack 
+
+ pulumi stack ls = lists all stacks 
+
+ pulumi select dev = selects workspace 
+
+ *Very Similar to TF* 
